@@ -119,7 +119,7 @@
     @include button-outline($button-royal-bg);
   }
 
-  &.button-dark {
+  &.button-stable {
     @include button-style($button-dark-bg, $button-default-border, $button-dark-active-bg, $button-default-active-border, $button-dark-text);
     @include button-clear($button-dark-bg);
     @include button-outline($button-dark-bg);

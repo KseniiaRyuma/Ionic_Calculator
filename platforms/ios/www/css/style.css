@@ -1,1 +1,18 @@
-/* Empty. Add your own CSS if you like */
+.expression {
+    background-color: white;
+    font-size: small;
+    text-align: right;
+    height: 50px;
+}
+
+.display {
+    background-color: #cce6ff;
+    font-size: large;
+    text-align: right;
+}
+
+.custom-dark {
+    color: #fff;
+    text-transform: uppercase;
+    background-color: #4da6ff; !important;
+}
